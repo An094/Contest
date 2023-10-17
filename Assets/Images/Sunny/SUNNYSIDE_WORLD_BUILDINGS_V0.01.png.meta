@@ -1,0 +1,3462 @@
+fileFormatVersion: 2
+guid: 28ac9bc86884a6848958fdb6c82083ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9c59c6e4ae8a44851e03e35601eec
+      internalID: -1164164439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623b0744881ebd4dac064a231887568
+      internalID: -439430476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87eff10369c3c641a6f1495578ffdea
+      internalID: -428033460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678dbbcba4206eb46b9f7a20e880d984
+      internalID: -411366172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481fb58c9954d647b81101a0b79d525
+      internalID: 553160268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d48446aa41c5e4abc05f180c6ecc9a
+      internalID: -541398903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a5b8ee39b03354c9b3835f4488bb1e
+      internalID: 668041953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355160b3b39d78340a14afaf2c9decda
+      internalID: 1558952526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0579de94311e24192b73670d103fc4
+      internalID: -2006102832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fbd8629225ba748a70b1379ca0c151
+      internalID: 1209771312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9bf7223c907ce45896516ddda131ee
+      internalID: -1143713584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55572a32e58e58e47b5c4b8b58088ddd
+      internalID: 789794657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f8f18ebac2eb43b00e1e259941e4e
+      internalID: 667065770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d1f2d2e183c044abb3a551f702124f
+      internalID: 470760403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e032d899fa266547ad556327ef20558
+      internalID: 680431921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47204b4d18ae643acf980ba5222b82
+      internalID: -101667491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed1de6a5c143b848b760454bb0bb058
+      internalID: -130067675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed456f1264351bf4597c901919b3847f
+      internalID: 1413537920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71a86906d6ec74281660c634279ac9
+      internalID: 1845494266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068623b3dfabd8343b8792a9ea89285c
+      internalID: -1240157076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9595c55d92a12ae4c82df4a86dac3035
+      internalID: -1515871962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69300303c049d94a909e37c8f6096c5
+      internalID: 1292047543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d03703ffb334446a53425c5ebed4d3
+      internalID: -2078936911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e019b6ed586710a4ea60a8d308058c59
+      internalID: -1149923483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290fa252774b9c4f90b9dd3151e75a4
+      internalID: -451168335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149fa2ddd4cf7d14fb5530cbe34115e2
+      internalID: 1964986253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65be3ec2b72e648ae5164e62da815a
+      internalID: 560569294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e291731d889c8a4d9c99d4b31637691
+      internalID: -2048592684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec43e69b12d3f24c9fbbed1c594be7f
+      internalID: 1007471184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364fd1fe41babe94e86b0aec10835c9f
+      internalID: -1589576028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e66ae588b99cb84cb2384b848578340
+      internalID: 562268341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad336e52bd57d47b758f659e7971de
+      internalID: 1442026818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215e9c0f47bdd54eadbccd5947adcf1
+      internalID: -918524820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae299dfeac65940b6ea1438e1624d1
+      internalID: 784225597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab881ddffbe19c84c81fd1b0234530cb
+      internalID: -1649055085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b54f9bebb8b741bfc97ace6758b2d
+      internalID: 512763602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de1aa7e84b4964bbb3addb391b381f
+      internalID: 450098729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a222fe6e88490d43a1ce78e803f20b7
+      internalID: 674938195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01fc8ed3e2e5d4abbe40343ff3b02d
+      internalID: 1899298028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827655d311d557941bd4778154e68d32
+      internalID: 1504022689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dcae63fa3e9e34681dfe9dc911e650
+      internalID: -318724628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db844ec493e0e45a3c6141bece9b30
+      internalID: -703950334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a241b828cf74844a96063b0e4c02707
+      internalID: 686603562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa2ee45434060747aa70df169b4951d
+      internalID: -1142971355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc8ff3a19eb0c4bbcd657f51440894
+      internalID: -676871015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00173d28c0fd13d4482be9c6e3861956
+      internalID: -791010554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f730df731b1c545880129886ce2851
+      internalID: 51403470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0141eaac7e6d478695ef312245ec3
+      internalID: 1262157140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6050a64e9c1ba642a155d74810d6eb8
+      internalID: -512043125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079b0359d84f92646a2852691fcd253a
+      internalID: -1158034622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e64bacdfb16c4a96e18af2e0a7b49
+      internalID: -1166305922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a7b8f4b52ca640bd7905b0db37b12
+      internalID: -318124868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8a49dd83074b42a5d1943de851435
+      internalID: -1613496556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7994a0574fe0f4e9d23ce7c018757d
+      internalID: 1425281402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c943ba40366a91845bfc8f6210dd548a
+      internalID: 396224767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e329ed0a170b84d873780b53503980
+      internalID: -34476674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638d9afab15a93479703767f8dfa12d
+      internalID: -1002911798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018ce9850d88b74c88f30a74e88a84e
+      internalID: -1733009668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c305e3506c3c459b7a8a34863cbec
+      internalID: 788252480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1b940b604f1e4cbf46b445de513c1
+      internalID: -1627266333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a2c8d11ec31c94282a075df1c22ba8
+      internalID: 2005147467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22768487d8afa4c46af3d0f72e9cbd36
+      internalID: -1776403093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe24c87cc7fdc5419a314b3722ba732
+      internalID: -2138261190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7eb88ce2858fb4c94e737d9b9e3b97
+      internalID: -732372934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc34d385151a547a18c1d33cc09d22
+      internalID: -1182169776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39ce37c12279640834ac5edd14c3b2
+      internalID: -616769671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde32619bc1f1e4ab26d2cf63e1eba9
+      internalID: -751054620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f110981d4899924db204d29530cbc3f
+      internalID: 1574303383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c8800dd2b9754aaba55477290497b
+      internalID: 1517791006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f4be744c5770e449928c784c343a08
+      internalID: -1374017496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0544b4611030334681c8de3d50f61dc
+      internalID: -1060274277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae994ac2ffb404c9e9605259f1d0e9
+      internalID: -1478654211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1ef38035b01e40a9430f9d0a9ff6c
+      internalID: 473099472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34da95844133c0468d6bb53d8fa1318
+      internalID: 1637117633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54241dc8197f649b34e72147e566a6
+      internalID: -981984697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2da0a556814004993657efa925e1df
+      internalID: -1909810694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a14071320a913488c1d7bc30ff018d
+      internalID: -1674762073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcb69eaf1b1d64697aec9c017eae15
+      internalID: -984745992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d961023e6ffb419e97a7d2764636e
+      internalID: -314633311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5ddbf93fb0f84bbffb08f87a9986f
+      internalID: 638696585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d78690193d37842bd95f6ca149ddfa
+      internalID: 466060349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e0ae9f0a52e244b078c9c5d9dce6a
+      internalID: 730080541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49dac6bcc88ccd4daf07721a008b91f
+      internalID: -1051356071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd397f027a3b2a04889838250f073d43
+      internalID: 1475214918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8996627a06c5f8f4c839c070d56d4ab5
+      internalID: -1227678023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd82a6b5a4c16e41bb39238bd175912
+      internalID: -1815822684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1992884cef87b749bad67098332ce56
+      internalID: -1594239321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010fe7c8fd0be04b9380e34ae2711e0
+      internalID: -656616736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8e44c9bc7a9f0408ae0aaac50cb85b
+      internalID: 1783382129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffa278fab4211745bdf67f0dfd53c23
+      internalID: 1014889662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1541448e05ed23c4b9da05e5828db34b
+      internalID: 2005373410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76449f09db014d47b3f015d6d3e722a
+      internalID: -1773253485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bb591770fdedc4ea6e6463806220b6
+      internalID: -1401400276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eadfbc9a260ba9499b4a04f3e20b794
+      internalID: 1427222756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e1fc4ff2a4894ea0f75ec66c53f1c
+      internalID: -1645122149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e823ea4e1341942b4e1d7f865a8c2e
+      internalID: -808303610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd723da408328604bb86a3e665a475c7
+      internalID: -504351347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffeee64a4eb8cb4bb433981892cf0fb
+      internalID: -1186946287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b297246771f1234b9fa06c70fdf1cf3
+      internalID: 1374508635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d410df4afb554e95dd94b37ee734c
+      internalID: 1085964961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7f10f55072dd4092a50bd3b65f03f
+      internalID: 1795801614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be8db93c5625245821c2ca25cdee0a
+      internalID: -1207105901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a1b3f252e0a348a8c3c45158f5cbb
+      internalID: -886051867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef3257dbe982a4788efd6bc8c04b35
+      internalID: 870479699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d8af86ab0949409e1339bc6907f23
+      internalID: 439790098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fb0c4733761048bd8566a72168213
+      internalID: 1802953839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbe5367a056584ea3eced475b5a76e
+      internalID: -1833325084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f6bdef070a22429b856fc5bdd86db
+      internalID: 1629594901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e088fac9b3d0c8f479791d8d840ea03d
+      internalID: 680016238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0351f5786189ad48a6bf1e435a81142
+      internalID: 835810885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620458a951316946b1ae706ac10b4f9
+      internalID: -718057091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb19bed99ebf4b14d8577ef447d059b5
+      internalID: 525488871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3475d475d0544084c23fdc56f01ff
+      internalID: 1474393384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edd9be195fb37047b637c19644b6c0d
+      internalID: 1455288297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8eae2f8e08f034d991089a7e61c2af
+      internalID: -1795056556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964c2f7c6b8ab745a4eac2b059705dc
+      internalID: -1426341720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac0c33733ead74c88564820511a08a
+      internalID: 1411431226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7873058a9b9ecb4998ad84184819d00
+      internalID: -904651116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55807fa3a2072f4ba22295ade9b607d
+      internalID: 1792552776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f516b1e4dba014480680c8075514a1
+      internalID: -401538521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc734faf7dd5f74ab601a8e79270bf3
+      internalID: -1194537109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b1690f5207c44789cf887e90554ee
+      internalID: 192569661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ea9e4e5ca3e14fb10a59174e6afb5
+      internalID: 791154251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb6a9fad169994a91945853125e12f
+      internalID: 1091734436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9980319ae194f0459ef65da9a60d431
+      internalID: 1468155865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce98b59ad68044428414ce2bc634ff7
+      internalID: -1309361693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8524a2d41c1f674585707572887d502
+      internalID: 621755613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9401f86ea733c141b91504ccad5cf50
+      internalID: 1540086718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9230a13e7d63dd47b3a900037a88c4f
+      internalID: -549761631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81463c169cc943e4da8d7657335447b0
+      internalID: -710931485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b277cec4b0bdeb94ea2566e1479a9f0a
+      internalID: 370725062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0773b868bb6ce40b8723bf4e309e6f
+      internalID: -126380804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11252185f16bb7548be6fa9c55c4c517
+      internalID: 1720969263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b5277534e735428924541b5c505cd
+      internalID: 1795160120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_134
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca044ba06b544e41a16c98986f31a6e
+      internalID: -473620447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771d1df3b61e004fa650a03095d13a5
+      internalID: 409424144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25c6b91101fe1498df59006d674912
+      internalID: 1775161537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee91752017c10504a83513694d53c72b
+      internalID: 1021018153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece46a26f2a7ea4aaa9fde4af2af930
+      internalID: -676258491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea7fb8a934a344f9654741af562eac
+      internalID: -1617306027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204e60462e5bdd41a490d62a6e03e56
+      internalID: -1706850761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b418dc9bebe49449f3ac38840a9fa3
+      internalID: -770400459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df495354c92565649b2415e5ad564458
+      internalID: 1876582914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c4e806b3005e42bada4cb6044a0c3
+      internalID: -2097872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7b4c15c5ea10145bc2717c5cfb0a77
+      internalID: -439156138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c825b36204b942b134d065954e431
+      internalID: 1516378931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5cb18769090b942babb61a7c64d44e
+      internalID: 603601829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a971cec0838443a8e88f14704c0fd
+      internalID: 1698657644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e25992e4424534c90f5591314a1b7e
+      internalID: 105499686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fb4ab6d5a3684db70ad5f987372cf
+      internalID: 537478486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUNNYSIDE_WORLD_BUILDINGS_V0.01_150
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c147c9a584a8e4a812a0b16be2a4c8
+      internalID: -312037207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_0: -1164164439
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_1: -439430476
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_10: -1143713584
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_100: 1795801614
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_101: -1207105901
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_102: -886051867
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_103: 870479699
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_104: 439790098
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_105: 1802953839
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_106: -1833325084
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_107: 1629594901
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_108: 680016238
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_109: 835810885
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_11: 789794657
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_110: -718057091
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_111: 525488871
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_112: 1474393384
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_113: 1455288297
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_114: -1795056556
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_115: -1426341720
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_116: 1411431226
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_117: -904651116
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_118: 1792552776
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_119: -401538521
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_12: 667065770
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_120: -1194537109
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_121: 192569661
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_122: 791154251
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_123: 1091734436
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_124: 1468155865
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_125: -1309361693
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_126: 621755613
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_127: 1540086718
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_128: -549761631
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_129: -710931485
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_13: 470760403
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_130: 370725062
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_131: -126380804
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_132: 1720969263
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_133: 1795160120
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_134: -473620447
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_135: 409424144
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_136: 1775161537
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_137: 1021018153
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_138: -676258491
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_139: -1617306027
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_14: 680431921
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_140: -1706850761
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_141: -770400459
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_142: 1876582914
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_143: -2097872962
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_144: -439156138
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_145: 1516378931
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_146: 603601829
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_147: 1698657644
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_148: 105499686
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_149: 537478486
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_15: -101667491
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_150: -312037207
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_16: -130067675
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_17: 1413537920
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_18: 1845494266
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_19: -1240157076
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_2: -428033460
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_20: -1515871962
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_21: 1292047543
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_22: -2078936911
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_23: -1149923483
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_24: -451168335
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_25: 1964986253
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_26: 560569294
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_27: -2048592684
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_28: 1007471184
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_29: -1589576028
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_3: -411366172
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_30: 562268341
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_31: 1442026818
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_32: -918524820
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_33: 784225597
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_34: -1649055085
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_35: 512763602
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_36: 450098729
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_37: 674938195
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_38: 1899298028
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_39: 1504022689
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_4: 553160268
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_40: -318724628
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_41: -703950334
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_42: 686603562
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_43: -1142971355
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_44: -676871015
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_45: -791010554
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_46: 51403470
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_47: 1262157140
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_48: -512043125
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_49: -1158034622
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_5: -541398903
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_50: -1166305922
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_51: -318124868
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_52: -1613496556
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_53: 1425281402
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_54: 396224767
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_55: -34476674
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_56: -1002911798
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_57: -1733009668
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_58: 788252480
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_59: -1627266333
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_6: 668041953
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_60: 2005147467
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_61: -1776403093
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_62: -2138261190
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_63: -732372934
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_64: -1182169776
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_65: -616769671
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_66: -751054620
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_67: 1574303383
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_68: 1517791006
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_69: -1374017496
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_7: 1558952526
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_70: -1060274277
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_71: -1478654211
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_72: 473099472
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_73: 1637117633
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_74: -981984697
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_75: -1909810694
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_76: -1674762073
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_77: -984745992
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_78: -314633311
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_79: 638696585
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_8: -2006102832
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_80: 466060349
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_81: 730080541
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_82: -1051356071
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_83: 1475214918
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_84: -1227678023
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_85: -1815822684
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_86: -1594239321
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_87: -656616736
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_88: 1783382129
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_89: 1014889662
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_9: 1209771312
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_90: 2005373410
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_91: -1773253485
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_92: -1401400276
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_93: 1427222756
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_94: -1645122149
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_95: -808303610
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_96: -504351347
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_97: -1186946287
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_98: 1374508635
+      SUNNYSIDE_WORLD_BUILDINGS_V0.01_99: 1085964961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
